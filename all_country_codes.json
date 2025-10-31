@@ -1380,6 +1380,8 @@
 {
 	"name": "Russian Federation ",
 	"name_official": "The Russian Federation",
+	"name_local": "Россия",
+	"name_local_official": "Российская Федерация",
 	"alpha_2": "RU",
 	"alpha_3": "RUS",
 	"country_code": "643",
@@ -1534,8 +1536,7 @@
 	"phone_code": "+34"
 },
 {
-	"name": "" Svalbard
- Jan Mayen"",
+	"name": "Svalbard Jan Mayen",
 	"name_official": "Svalbard and Jan Mayen",
 	"alpha_2": "SJ",
 	"alpha_3": "SJM",
@@ -1857,8 +1858,7 @@
 	"currency_number": "840",
 	"country_code_iso": "ISO 3166-2:DO",
 	"ccTLD": ".do",
-	"phone_code": ""+1809,+1829,
-+1849""
+	"phone_code": "+1809,+1829,+1849"
 },
 {
 	"name": "Guinea-Bissau",
@@ -2084,6 +2084,8 @@
 {
 	"name": "Germany",
 	"name_official": "The Federal Republic of Germany",
+	"name_local": "Deutschland",
+	"name_local_official": "Bundesrepublik Deutschland",
 	"alpha_2": "DE",
 	"alpha_3": "DEU",
 	"country_code": "276",
@@ -2303,9 +2305,7 @@
 	"phone_code": "+1869"
 },
 {
-	"name": "" Saint Helena
- Ascension Island
- Tristan da Cunha"",
+	"name": "Saint Helena Ascension Island Tristan da Cunha",
 	"name_official": "Saint Helena, Ascension and Tristan da Cunha",
 	"alpha_2": "SH",
 	"alpha_3": "SHN",
@@ -2362,7 +2362,7 @@
 	"alpha_2": "PM",
 	"alpha_3": "SPM",
 	"country_code": "666",
-	"currency_name": "Euro		",
+	"currency_name": "Euro",
 	"currency_code": "EUR",
 	"currency_number": "951",
 	"country_code_iso": "ISO 3166-2:PM",
@@ -2487,9 +2487,7 @@
 	"phone_code": "+594"
 },
 {
-	"name": "" Bonaire
- Sint Eustatius
- Saba"",
+	"name": "Bonaire Sint Eustatius Saba",
 	"name_official": "Bonaire, Sint Eustatius and Saba",
 	"alpha_2": "BQ",
 	"alpha_3": "BES",
@@ -2788,8 +2786,10 @@
 	"phone_code": "+32"
 },
 {
-	"name": "France ",
+	"name": "France",
 	"name_official": "The French Republic",
+	"name_local": "France",
+	"name_local_official": "République française",
 	"alpha_2": "FR",
 	"alpha_3": "FRA",
 	"country_code": "250",
