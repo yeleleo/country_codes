@@ -8,7 +8,7 @@ Country Codes in Simple `JSON` format
  - `name` - common name in english
  - `name_official` - official name in english
  - `name_local` - common name in local language (if available)
-	- `name_local_official` - official name in local language (if available)
+ - `name_local_official` - official name in local language (if available)
 
  - `language_code` - three-letter ISO 639-3 language code (if available)
  - `language_name` - official language name in english (if available)
