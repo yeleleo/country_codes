@@ -1757,8 +1757,10 @@
 	"phone_code": "+501"
 },
 {
-	"name": "United States of America",
+	"name": "United States",
 	"name_official": "The United States of America",
+	"name_local": "United States",
+	"name_local_official": "The United States of America",
 	"alpha_2": "US",
 	"alpha_3": "USA",
 	"country_code": "840",
